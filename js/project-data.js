@@ -5,7 +5,7 @@ const projectsData = [
         tag: 'Social Post',
         brand: 'Samsung',
         desc: 'Led the visual execution for 3 anchor social posts of the "Một Chạm Là Thảnh Thơi" campaign, driving engagement through gamified challenges. Leveraged AI-generated talents and maintained a sleek, dynamic aesthetic using the brand\'s signature white-blue palette.',
-        images: ['images/page-02.jpg'],
+        images: ['images/page-02.jpg', 'images/page-03.jpg'],
         captions: []
     },
     {
@@ -14,7 +14,7 @@ const projectsData = [
         tag: 'Key Visual (Concept Proposal)',
         brand: 'Samsung',
         desc: 'Conceptualized a visual strategy shifting the SmartThings narrative from "functional speed" to "human-centric understanding." Utilized an AI-driven workflow to generate a multi-generational talent pool, illustrating a seamless, accessible tech ecosystem for all family members.',
-        images: ['images/page-03.jpg'],
+        images: ['images/page-01.jpg'],
         captions: []
     },
     {
@@ -59,7 +59,7 @@ const projectsData = [
         tag: 'Motion Visual / Banner',
         brand: 'Castrol',
         desc: 'Designed the digital staging for Mega Live sessions, including dynamic backgrounds and livestream banners. Optimized spatial layouts to highlight the host and product line against a vibrant summer concept.',
-        images: ['images/page-14.jpg', 'images/page-73.jpg'],
+        images: ['images/page-14.jpg', 'images/page-52.jpg'],
         captions: []
     },
     {
@@ -68,7 +68,7 @@ const projectsData = [
         tag: 'Key Visual',
         brand: 'Stride',
         desc: 'Key visual for a B2B event — from sketching and storyboarding to the final key visual for a healthcare campaign.',
-        images: ['images/page-15.jpg', 'images/page-75.jpg'],
+        images: ['images/page-15.jpg'],
         captions: []
     },
     {
@@ -77,7 +77,7 @@ const projectsData = [
         tag: 'Key Visual',
         brand: 'Isuzu',
         desc: 'Developed a pitching key visual to launch new refrigerated and tractor-head truck models. The industrial, high-impact layout underscores the durability and heavy-duty performance of commercial vehicles.',
-        images: ['images/page-16.jpg', 'images/page-74.jpg'],
+        images: ['images/page-16.jpg'],
         captions: []
     },
     {
@@ -86,7 +86,7 @@ const projectsData = [
         tag: 'Key Visual',
         brand: 'Deli',
         desc: 'Art-directed the key visual for the "Vỗ về chính em" CSR campaign, launching an eco-friendly stationery line crafted by people with disabilities. The visual strategy evokes a sense of healing, mindfulness, and purpose.',
-        images: ['images/page-17.jpg', 'images/page-72.jpg'],
+        images: ['images/page-17.jpg'],
         captions: []
     },
     {
@@ -113,7 +113,7 @@ const projectsData = [
         tag: 'Course Project',
         brand: 'Maison Marou',
         desc: 'Couple Christmas Collection design for Maison Marou — from color palette and sketching to the final key visual.',
-        images: ['images/page-19.jpg', 'images/page-77.jpg'],
+        images: ['images/page-19.jpg'],
         captions: []
     },
     {
@@ -122,7 +122,7 @@ const projectsData = [
         tag: 'Social Post / E-commerce Banner',
         brand: 'Mobifone / Vietnamobile',
         desc: 'Executed tactical social media visuals and high-conversion e-commerce banners. Focused on clear typographic hierarchies to maximize click-through rates for telecommunication promo packages.',
-        images: ['images/page-20.jpg', 'images/page-76.jpg'],
+        images: ['images/page-20.jpg', 'images/page-53.jpg'],
         captions: []
     },
     {
@@ -131,7 +131,7 @@ const projectsData = [
         tag: 'Motion Visual / Banner',
         brand: "Cat's Lab",
         desc: "Developed the visual identity for TikTok livestream sessions and cross-platform teasing assets. Created a dynamic, summer-themed livestream KV to maximize product visibility and engagement during the Mega Sale season.",
-        images: ['images/page-21.jpg', 'images/page-22.jpg', 'images/page-70.jpg', 'images/page-71.jpg'],
+        images: ['images/page-21.jpg', 'images/page-22.jpg', 'images/page-50.jpg', 'images/page-51.jpg'],
         captions: []
     },
     {
@@ -140,7 +140,7 @@ const projectsData = [
         tag: 'Motion Clip / Social Post / Print',
         brand: 'Coocaa TV',
         desc: 'Directed vertical motion clips and gamified print assets (Lucky Draw) for the Super Brand Day campaign. Ensured flawless brand consistency and visual adaptation tailored specifically for the TikTok ecosystem.',
-        images: ['images/page-23.jpg', 'images/page-24.jpg', 'images/page-25.jpg', 'images/page-67.jpg', 'images/page-68.jpg', 'images/page-69.jpg'],
+        images: ['images/page-23.jpg', 'images/page-24.jpg', 'images/page-25.jpg', 'images/page-47.jpg', 'images/page-48.jpg', 'images/page-49.jpg'],
         captions: []
     },
     {
@@ -149,7 +149,7 @@ const projectsData = [
         tag: 'Motion Clip',
         brand: 'GS Battery',
         desc: 'Directed a series of motion graphic videos for the Q3/2025 campaign. The kinetic typography and dynamic transitions were specifically tailored to emphasize the raw power and durability of the brand\'s batteries.',
-        images: ['images/page-26.jpg', 'images/page-78.jpg'],
+        images: ['images/page-26.jpg', 'images/page-54.jpg'],
         captions: []
     },
     {
@@ -177,7 +177,7 @@ const projectsData = [
         tag: 'Motion Clip',
         brand: 'Nam Hà Pharma',
         desc: 'Produced a seasonal motion clip for Valentine\'s Day, delivering a lighthearted and humorous visual narrative that effectively communicated pharmaceutical benefits in a festive context.',
-        images: ['images/page-64.jpg'],
+        images: ['images/page-44.jpg'],
         captions: []
     },
     {
@@ -186,7 +186,7 @@ const projectsData = [
         tag: 'Motion Clip / Social Post',
         brand: 'Tarami',
         desc: 'Managed the motion design pipeline for a year-long retainer, delivering 12 distinct video assets. Ensured smooth animation mechanics and strict adherence to the evolving tone and mood of the IMC plan.',
-        images: ['images/page-65.jpg', 'images/page-66.jpg'],
+        images: ['images/page-45.jpg', 'images/page-46.jpg'],
         captions: []
     }
 ];
